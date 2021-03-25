@@ -200,11 +200,7 @@ html.change-font { font-size: 120%; }
 }
 
 @media (max-width: 700px) {
-<<<<<<< HEAD
   body {
-=======
-  .grid-container {
->>>>>>> b5938abc0a703770ca596473abd78c27d377ddea
     grid-template-columns: 1fr;
   }
   .menu, .grid-section, .copy {
@@ -221,11 +217,7 @@ html.change-font { font-size: 120%; }
     grid-column: 1 / 3;
   }
   .grid-section h1 {
-<<<<<<< HEAD
     font-size: 3rem;
-=======
-    font-size: 2.5rem;
->>>>>>> b5938abc0a703770ca596473abd78c27d377ddea
   }
   .menu {
     margin-top: 0px;
